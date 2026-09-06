@@ -9,25 +9,25 @@ Simple SVG assets in Intransitive by webgoatguy. You may freely use, modify, and
   <tr>
     <td>White</td>
     <td>
-      <a href="w_rock.svg">Rock</a>
+      <a href="white_rock.svg">Rock</a>
     </td>
     <td>
-      <a href="w_paper.svg">Paper</a>
+      <a href="white_paper.svg">Paper</a>
     </td>
     <td>
-      <a href="w_scissors.svg">Scissors</a>
+      <a href="white_scissors.svg">Scissors</a>
     </td>
   </tr>
   <tr>
     <td>Black</td>
     <td>
-      <a href="b_rock.svg">Rock</a>
+      <a href="black_rock.svg">Rock</a>
     </td>
     <td>
-      <a href="b_paper.svg">Paper</a>
+      <a href="black_paper.svg">Paper</a>
     </td>
     <td>
-      <a href="b_scissors.svg">Scissors</a>
+      <a href="black_scissors.svg">Scissors</a>
     </td>
   </tr>
 </table>

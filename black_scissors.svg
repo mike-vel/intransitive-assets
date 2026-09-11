@@ -12,5 +12,6 @@
       <path fill="#0f0f0f" stroke="#0f0f0f" stroke-width="2" d="m 0 9.9 a 3.96 3.3 90 0 0 16.5 0 a 3.96 3.3 90 0 0 -16.5 0 m 4.75 0 a 3.5 5.15 0 0 1 7 0 a 3.5 5.15 0 0 1 -7 0 z" id="handle-2" stroke-linejoin="round"/>
       <path fill="none" stroke="#efefef" stroke-width="0.75" d="m 0 9.9 a 3.96 3.3 90 0 0 16.5 0 a 3.96 3.3 90 0 0 -16.5 0 m 4.75 0 a 3.5 5.15 0 0 1 7 0 a 3.5 5.15 0 0 1 -7 0 z" id="handle-outline-2" stroke-linejoin="round"/>
     </g>
+    <circle fill="#7f7f7f" stroke-width="0" cx="32" cy="28.75" r="1.625" id="pivot-point"/>
   </g>
 </svg>

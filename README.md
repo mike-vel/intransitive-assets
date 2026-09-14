@@ -56,6 +56,18 @@ Simple SVG assets in Intransitive by webgoatguy. You may freely use, modify, and
       <a href="orange_scissors.svg">Scissors</a>
     </td>
   </tr>
+  <tr>
+    <td>Red</td>
+    <td>
+      <a href="red_rock.svg">Rock</a>
+    </td>
+    <td>
+      <a href="red_paper.svg">Paper</a>
+    </td>
+    <td>
+      <a href="red_scissors.svg">Scissors</a>
+    </td>
+  </tr>
 </table>
 
 ## Game Links:
